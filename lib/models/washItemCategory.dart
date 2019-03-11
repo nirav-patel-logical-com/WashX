@@ -1,0 +1,89 @@
+import 'package:flutter/material.dart';
+import 'package:wash_x/enum.dart';
+import 'package:wash_x/helpers/my_flutter_app_icons.dart';
+
+class WashItemCategory {
+  WashItemCategory({this.category, this.icon, this.categoryName, this.isSelected});
+  WashCategoryTypes category;
+  IconData icon;
+  String categoryName;
+  bool isSelected;
+}
+
+List<WashItemCategory> categogyList = [
+  new WashItemCategory(
+      category: WashCategoryTypes.SHIRT,
+      icon: MyFlutterApp.shirt,
+      categoryName: "Shirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SUITE,
+      icon: MyFlutterApp.suit,
+      categoryName: "Suite",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.PANTS,
+      icon: MyFlutterApp.pants,
+      categoryName: "Pants",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SKIRT,
+      icon: MyFlutterApp.skirt,
+      categoryName: "Skirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SLIPPERS,
+      icon: MyFlutterApp.slippers,
+      categoryName: "Slippers",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SHIRT,
+      icon: MyFlutterApp.shirt,
+      categoryName: "Shirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SUITE,
+      icon: MyFlutterApp.suit,
+      categoryName: "Suite",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.PANTS,
+      icon: MyFlutterApp.pants,
+      categoryName: "Pants",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SKIRT,
+      icon: MyFlutterApp.skirt,
+      categoryName: "Skirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SLIPPERS,
+      icon: MyFlutterApp.slippers,
+      categoryName: "Slippers",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SHIRT,
+      icon: MyFlutterApp.shirt,
+      categoryName: "Shirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SUITE,
+      icon: MyFlutterApp.suit,
+      categoryName: "Suite",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.PANTS,
+      icon: MyFlutterApp.pants,
+      categoryName: "Pants",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SKIRT,
+      icon: MyFlutterApp.skirt,
+      categoryName: "Skirt",
+      isSelected: false),
+  new WashItemCategory(
+      category: WashCategoryTypes.SLIPPERS,
+      icon: MyFlutterApp.slippers,
+      categoryName: "Slippers",
+      isSelected: false),
+];

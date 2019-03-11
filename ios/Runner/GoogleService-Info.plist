@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>841681126298-c4da5d8au81hdt11bovqdjuse8ti7dpv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.841681126298-c4da5d8au81hdt11bovqdjuse8ti7dpv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFLi3s2kyiI4YkrD9BOOypMFSGId4x88Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841681126298</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.washx.demo</string>
+	<key>PROJECT_ID</key>
+	<string>pages.wash-x1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pages.wash-x1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841681126298:ios:5b42c4ba74ff9cfc</string>
+	<key>DATABASE_URL</key>
+	<string>https://pages.wash-x1.firebaseio.com</string>
+</dict>
+</plist>

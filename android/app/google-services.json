@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "841681126298",
+    "firebase_url": "https://wash-x1.firebaseio.com",
+    "project_id": "wash-x1",
+    "storage_bucket": "wash-x1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841681126298:android:4039183ae7db89a7",
+        "android_client_info": {
+          "package_name": "com.wash.panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841681126298-m7fm1dja2bhjo5ofso582qji1u0iagqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1z1oaZYDy0-MOdwa6CN73oxfXnRR1Jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841681126298:android:5b42c4ba74ff9cfc",
+        "android_client_info": {
+          "package_name": "com.washx.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841681126298-m7fm1dja2bhjo5ofso582qji1u0iagqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1z1oaZYDy0-MOdwa6CN73oxfXnRR1Jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

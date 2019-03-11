@@ -1,0 +1,17 @@
+.DS_Store
+.atom/
+.idea/
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+/.packages
+/.idea/libraries/Dart_Packages.xml
+/.idea/libraries/Dart_SDK.xml
+/.idea/libraries/Flutter_Plugins.xml
+/.idea/workspace.xml
+/demo_project.iml
+/.idea/workspace.xml
